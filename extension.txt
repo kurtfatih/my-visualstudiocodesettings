@@ -1,0 +1,23 @@
+code --install-extension alexcvzz.vscode-sqlite
+code --install-extension apollographql.vscode-apollo
+code --install-extension ckolkman.vscode-postgres
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension dracula-theme.theme-dracula
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension esbenp.prettier-vscode
+code --install-extension fisheva.eva-theme
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension GitHub.github-vscode-theme
+code --install-extension GraphQL.vscode-graphql
+code --install-extension Jaakko.black
+code --install-extension jpoissonnier.vscode-styled-components
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
+code --install-extension ms-toolsai.jupyter
+code --install-extension ms-toolsai.jupyter-keymap
+code --install-extension ms-toolsai.jupyter-renderers
+code --install-extension ritwickdey.LiveServer
+code --install-extension vscodevim.vim
+code --install-extension wenfangdu.snippet-generator
+
