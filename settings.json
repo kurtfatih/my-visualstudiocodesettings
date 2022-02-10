@@ -1,0 +1,101 @@
+{
+  // Place your settings in this file to overwrite the default settings
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "k"],
+      "after": ["<esc>"]
+    }
+  ],
+  "vim.enableNeovim": false,
+  "editor.fontSize": 18,
+  "terminal.integrated.fontSize": 17,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "vue"
+  ],
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/deps": true
+  },
+  "[javascript]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[graphql]": {
+    "editor.tabSize": 2
+  },
+  "editor.minimap.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.editor.labelFormat": "short",
+  // "emmet.excludeLanguages": ["typescript", "typescriptreact", "javascript"],
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "breadcrumbs.enabled": true,
+  "files.trimTrailingWhitespace": true,
+  "workbench.startupEditor": "welcomePage",
+  "typescript.surveys.enabled": false,
+  "sync.gist": "1e9dd01994f78489306fbfd6f7b01cd3",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "terminal.integrated.rendererType": "dom",
+  "liveshare.featureSet": "insiders",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.gotoLocation.multipleImplementations": "goto",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "editor.gotoLocation.multipleReferences": "goto",
+  "editor.gotoLocation.multipleTypeDefinitions": "goto",
+  "workbench.editor.showTabs": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.formatOnSave": true,
+  "vim.neovimPath": "/usr/local/bin/nvim",
+  "editor.suggestSelection": "first",
+  "python.formatting.provider": "black",
+  "python.pythonPath": "/usr/local/bin/python",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.sideBar.location": "right",
+  "editor.tabSize": 2,
+  "eslint.migration.2_x": "off",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "workbench.colorTheme": "Default High Contrast",
+  "prettier.trailingComma": "none",
+  "prettier.semi": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "bracketPairColorizer.depreciation-notice": false,
+  "window.zoomLevel": 0
+}
+
